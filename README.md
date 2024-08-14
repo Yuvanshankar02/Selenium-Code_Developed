@@ -1,2 +1,2 @@
-# Selenium-Code_Developed
-This cod is used to develop the Selenium Coding
+# Selenium_Code_Developed
+This code is used to develop the Selenium Coding
